@@ -3,4 +3,4 @@ date,Date,,,Data di Pubblicazione
 creator,Creator,,,
 subject,,true
 location,,true
-identifier,,,true,Identifier
+objectid,,,true,Identifier
