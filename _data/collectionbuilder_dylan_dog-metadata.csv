@@ -1,5 +1,4 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-imghome01,homepage.jpg,,,immagine copertina,Alessandro Rocchi,,immagine da usare in copertina home,dylan dog;homepage,,,,,,Image;StillImage,image/jpeg,ita,,
 coll001,DYD1.jpg,,,Copertina n_1_L_alba_dei_Morti_Viventi,Alessandro Rocchi,1986-10-01,Copertina del numero 1,dylan dog;groucho;xabaras;morgana,London;Inverness;Edimburgh,57.4773722,-4.223877892,,,Image;StillImage,image/jpeg,ita,,
 coll002,DYD2.jpg,,,Copertina n_2_Jack_lo_Squartatore,Alessandro Rocchi,1986-11-01,Copertina del numero 2,dylan dog;groucho;bloch;jenkins,London;Whitechapel,51.51397088,-0.06808374883,,,Image;StillImage,image/jpeg,ita,,
 coll003,DYD3.jpg,,,Copertina n_3_Le_Notti_della_Luna_Piena,Alessandro Rocchi,1986-12-01,Copertina del numero 3,dylan dog;groucho;,Berlin;Londo;Dark Forest,48.00238234,7.93109882,,,Image;StillImage,image/jpeg,ita,,
@@ -13,5 +12,3 @@ coll010,DYD12.jpg,,,Copertina n_12_Killer,Alessandro Rocchi,1987-09-01,Copertina
 coll011,DYD25.jpg,,,Copertina n_25_Morgana,Alessandro Rocchi,1988-10-01,Copertina del numero 25,dylan dog,,,,,,Image;StillImage,image/jpeg,ita,,
 coll012,DYD43.jpg,,,Copertina n_43_Storia_di_Nessuno,Alessandro Rocchi,1990-04-01,Copertina del numero 43,dylan dog,,,,,,Image;StillImage,image/jpeg,ita,,
 coll013,DYD100.jpg,,,Copertina n_100_La_Storia_di_Dylan_Dog,Alessandro Rocchi,1995-01-01,Copertina del numero 100,dylan dog,,,,,,Image;StillImage,image/jpeg,ita,,
-itm01,Page1.jpg,,,Pagina_Item_1,Alessandro Rocchi,,Pagina_del_primo_item,dyland dog;item;pagina,,,,,,,,,,
-itm02,Page2.jpg,,,Pagina_Item_2,Alessandro Rocchi,,Seconda_pagina_del_primo_item,dyland dog;item;pagina,,,,,,,,,,
