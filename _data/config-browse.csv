@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,
+date,Date,,,Data di Pubblicazione
 creator,Creator,,,
 subject,,true
 location,,true
+identifier,,,true,Identifier
