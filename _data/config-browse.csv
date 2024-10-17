@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Data di Pubblicazione
-creator,Creator,,,
+scenggiatore,Creator,,,
+disegnatore,co-creator,,,
 subject,,true
 location,,true
-objectid,,,true,Identifier
