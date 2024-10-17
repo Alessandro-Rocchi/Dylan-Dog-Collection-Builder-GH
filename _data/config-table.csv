@@ -1,5 +1,8 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+title,Titolo
+creator,Sceneggiatore
+co-creator,Disegnatore
+date,Data di Pubblicazione
+description,Descrizione
+subject,Personaggi
+
